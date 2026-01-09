@@ -23,8 +23,6 @@ I'm a passionate Computer Science student specializing in AI/ML at Ajay Kumar Ga
 
 ### 💼 Professional Experience
 - **Full-Stack Web Developer Intern** at HashedBit Innovations (Jul 2025 - Sep 2025)
-  - Improved state management efficiency by 30% using Redux
-  - Optimized backend performance achieving 20% faster query execution
 
 ### 💻 Featured Projects
 
